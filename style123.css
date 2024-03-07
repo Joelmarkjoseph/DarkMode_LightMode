@@ -1,0 +1,13 @@
+
+.CONT{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+button{
+    width: fit-content;
+    height: fit-content;
+}
+#flip{
+    background-color: white;
+}
